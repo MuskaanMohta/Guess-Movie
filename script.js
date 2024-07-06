@@ -32,7 +32,7 @@ const moviesObject = {
     "👅🏑🇮🇳": "Chak De India ",
     "🛸👽🦸‍♂️": "Koi Mil Gaya",
     "🤴🇮🇳": "Raja Hindustani",
-    "🧑‍🌾🏏🇮🇳🏴󠁧󠁢󠁥󠁮󠁧󠁿": "Lagaan: Once Upon a Time in India",
+    "🧑‍🌾🏏🇮🇳🏴󠁧󠁢󠁥󠁮󠁧󠁿": "Lagaan Once Upon a Time in India",
     "🥊👩🏅": "Mary Kom",
     "🏆 🚴‍♂️ 🚴‍♂️🏅": "Jo Jeeta Wohi Sikandar",
     "🚗🕛📞🚗🕛": "Karthik Calling Karthik",
@@ -44,7 +44,7 @@ const moviesObject = {
     "👨‍🦱➡👨‍🦲": "Bala",
     "👮🦁": "Singham",
     "❤🟰🥴": "Dil To Pagal Hai",
-    "🎖👩‍✈️🚁": "Gunjan Saxena: The Kargil Girl"
+    "🎖👩‍✈️🚁": "Gunjan Saxena The Kargil Girl"
 };
 
 const container = document.querySelector(".container");
