@@ -30,8 +30,6 @@ const moviesObject = {
     "🏍💨": "Dhoom",
     "🤫👌⭐": "Secret Superstar",
     "👅🏑🇮🇳": "Chak De India ",
-    "👌3️⃣0️⃣": "Super 30",
-    "📃1️⃣5️⃣": "Article 15",
     "🛸👽🦸‍♂️": "Koi Mil Gaya",
     "🤴🇮🇳": "Raja Hindustani",
     "🧑‍🌾🏏🇮🇳🏴󠁧󠁢󠁥󠁮󠁧󠁿": "Lagaan: Once Upon a Time in India",
